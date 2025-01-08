@@ -615,5 +615,4 @@ label[for="unique-c3"] {
   background-image: url('assets/skills/3.png');
 }
 label[for="unique-c4"] {
-  background-image: url('assets/skills/4.png');
-}
+  background-image: url('./assets/skills/4.png');
