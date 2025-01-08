@@ -559,8 +559,9 @@ label {
 }
 
 .unique-card > .unique-row > .unique-icon {
-  background: #223;
-  color: white;
+  background: var(--primary-color);
+  color: var(--bg-secondary);
+  font-weight: bold;
   border-radius: 50%;
   width: 50px;
   display: flex;
