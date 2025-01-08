@@ -605,14 +605,14 @@ input[name="unique-slide"]:checked + label .unique-description {
 }
 
 label[for="unique-c1"] {
-  background-image: url('/assets/skills/1.png');
+  background-image: url('assets/skills/1.png');
 }
 label[for="unique-c2"] {
-  background-image: url('/assets/skills/2.png');
+  background-image: url('assets/skills/2.png');
 }
 label[for="unique-c3"] {
-  background-image: url('/assets/skills/3.png');
+  background-image: url('assets/skills/3.png');
 }
 label[for="unique-c4"] {
-  background-image: url('/assets/skills/4.png');
+  background-image: url('assets/skills/4.png');
 }
